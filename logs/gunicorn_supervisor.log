@@ -1,0 +1,14 @@
+[2023-07-17 09:03:08 +0000] [20076] [INFO] Starting gunicorn 20.1.0
+[2023-07-17 09:03:08 +0000] [20076] [INFO] Listening at: http://0.0.0.0:8000 (20076)
+[2023-07-17 09:03:08 +0000] [20076] [INFO] Using worker: sync
+[2023-07-17 09:03:08 +0000] [20079] [INFO] Booting worker with pid: 20079
+[2023-07-17 09:03:27 +0000] [20076] [INFO] Handling signal: term
+[2023-07-17 09:03:27 +0000] [20079] [INFO] Worker exiting (pid: 20079)
+[2023-07-17 09:03:27 +0000] [20076] [INFO] Shutting down: Master
+[2023-07-17 09:03:37 +0000] [755] [INFO] Starting gunicorn 20.1.0
+[2023-07-17 09:03:37 +0000] [755] [INFO] Listening at: http://0.0.0.0:8000 (755)
+[2023-07-17 09:03:37 +0000] [755] [INFO] Using worker: sync
+[2023-07-17 09:03:37 +0000] [758] [INFO] Booting worker with pid: 758
+[2023-07-17 09:07:11 +0000] [755] [CRITICAL] WORKER TIMEOUT (pid:758)
+[2023-07-17 09:07:11 +0000] [758] [INFO] Worker exiting (pid: 758)
+[2023-07-17 09:07:11 +0000] [1179] [INFO] Booting worker with pid: 1179
